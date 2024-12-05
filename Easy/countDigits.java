@@ -1,4 +1,6 @@
+package Easy;
 import java.util.*;
+
 public class countDigits {
     static int digitcnt(int n){
         int cnt = 0;
