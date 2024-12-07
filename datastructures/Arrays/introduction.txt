@@ -1,0 +1,18 @@
+Arrays are List of elements of same Types which stores in a COntigious Memory location.
+It Stores the Homogenious collection of same DataType.
+Ex arr = [int]; //stores only integer values.
+ex arr = [char]; //stores only character data.
+
+Like this Similar thing.
+
+
+#Structure to create an array
+
+DataType arrayname[] = new datatype[size];
+
+methods for creating an array in java;
+
+1, int marks[] = new int[50];
+2, int numbers[] = {2, 4, 5};
+3, int morenumbers[] = {7, 8, 9};
+4, String fruits[] = {"mango", "apple", "pineapple"};   
