@@ -1,4 +1,4 @@
-Arrays are List of elements of same Types which stores in a COntigious Memory location.
+Arrays are List of elements of same Types which stores in a Contigious Memory location.
 It Stores the Homogenious collection of same DataType.
 Ex arr = [int]; //stores only integer values.
 ex arr = [char]; //stores only character data.
