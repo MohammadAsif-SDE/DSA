@@ -1,4 +1,3 @@
-package datastructures.Arrays;
 import java.util.*;
 
 public class largest_smallest {

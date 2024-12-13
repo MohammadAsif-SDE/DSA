@@ -1,5 +1,3 @@
-package datastructures.Arrays;
-
 import java.util.Scanner;
 
 public class linearsearch {
